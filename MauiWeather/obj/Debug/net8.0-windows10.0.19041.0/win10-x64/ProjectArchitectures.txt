@@ -1,0 +1,1 @@
+C:\Users\gilmar\Desktop\Develop\Training\Maui\MauiWeather\MauiWeather\MauiWeather.csproj;x64
